@@ -117,7 +117,7 @@ std::cout << reinterpret_cast<size_t>(d + 4) - reinterpret_cast<size_t>(d - 4) <
 std::cout << reinterpret_cast <double*>(3000) - reinterpret_cast <double*>(2000) << std::endl;
 ```
 
-### Задание 8 **(2)**
+### Задание 8 **(2)** - СДЕЛАЛ
 
 *Что надо дописать в записанной ниже программе вместо многоточий, чтобы
 она выводила все числа из массива* **a**? *Почему?*
